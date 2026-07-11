@@ -1,6 +1,6 @@
 # Simple Monitoring with Netdata
 
-**Project Page:** https://roadmap.sh/projects/simple-monitoring
+**Project Page:** https://roadmap.sh/projects/simple-monitoring-dashboard
 
 ## Overview
 Deployed a real-time infrastructure monitoring dashboard using Netdata on an Ubuntu Linux subsystem. This daemon collects thousands of system metrics per second, providing granular visibility into CPU, memory, disk I/O, and network traffic.
