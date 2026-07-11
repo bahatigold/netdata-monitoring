@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Monitoring with Netdata
 
 **Project Page:** https://roadmap.sh/projects/simple-monitoring
@@ -12,3 +13,16 @@ Deployed a real-time infrastructure monitoring dashboard using Netdata on an Ubu
 
 ## Live Dashboard Screenshot
 ![Netdata System Monitoring](./assets/dashboard.png)
+=======
+# Simple Monitoring with Netdata
+
+**Project Page:** https://roadmap.sh/projects/simple-monitoring-dashboard
+
+## Overview
+Deployed a real-time infrastructure monitoring dashboard using Netdata on an Ubuntu Linux subsystem. This daemon collects thousands of system metrics per second, providing granular visibility into CPU, memory, disk I/O, and network traffic.
+
+## Setup
+1. Installed Ubuntu via WSL.
+2. Deployed Netdata via the official kickstart installation script.
+3. Configured the Netdata daemon to run locally on port 19999.
+>>>>>>> 15110528f6b7743bb8dd49c7c6bad73fd5ee9eef
