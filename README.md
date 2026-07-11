@@ -9,3 +9,6 @@ Deployed a real-time infrastructure monitoring dashboard using Netdata on an Ubu
 1. Installed Ubuntu via WSL.
 2. Deployed Netdata via the official kickstart installation script.
 3. Configured the Netdata daemon to run locally on port 19999.
+
+## Live Dashboard Screenshot
+![Netdata System Monitoring](./assets/dashboard.png)
